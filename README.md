@@ -10,7 +10,8 @@ Generic:
 * python-argparse (for Python =2.6)
 
 Linux:
-* sudo apt-get install python-zope.interface python-twisted python-twisted-web
+* sudo apt-get install python-zope.interface python-twisted python-twisted-web python-pip
+* sudo pip install -U pip setuptools 
 * sudo apt-get install python-argparse # if on Python 2.6
 
 Windows:
